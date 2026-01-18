@@ -49,7 +49,6 @@ if not getgenv().SIRIUS_LOAD_UI_SAFE then
             Instance.new("Frame", ScreenGui).Name = "Playerlist"
             Instance.new("Frame", ScreenGui).Name = "Home"
             Instance.new("Frame", ScreenGui).Name = "Music"
-            Instance.new("Frame", ScreenGui).Name = "LumiiPremiumHub"
             Instance.new("Frame", ScreenGui).Name = "Settings"
             Instance.new("Frame", ScreenGui).Name = "SmartBar"
             Instance.new("ImageButton", ScreenGui).Name = "Toggle"
